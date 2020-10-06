@@ -1,0 +1,48 @@
+.Contact
+{
+    float: left;
+    width: 29%;
+    margin-left: 10px;
+}
+
+h3{
+    color: red;
+}
+.SignUp
+{
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(75, 117, 151);
+}
+input
+{
+    margin-top: 10px;
+    height: 30px;
+    clear: both;
+  
+}
+.onForm
+{
+    margin-top: 15px;
+    width: 280px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+.new
+{
+    margin-top: 20px;
+}
+.BaiVietMoi
+{
+    background-color: darkgray;
+    padding: 5px;
+}
+.bvmChild
+{
+    margin-left: 15px;
+}
+.image2
+{
+    width: 30%;
+    float: left;
+}
